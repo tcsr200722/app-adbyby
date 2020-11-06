@@ -1,7 +1,7 @@
 # adbyby
 
-> adbyby  
-> luci-app-adbyby-plus
+* [adbyby](https://github.com/coolsnowwolf/lede/tree/master/package/lean/adbyby)  
+* [luci-app-adbyby-plus](https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-adbyby-plus)
 
 ---
 
